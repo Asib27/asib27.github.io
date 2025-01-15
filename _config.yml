@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Asib Rahman"
+title                    : "Md Asib Rahman"
 title_separator          : "-"
 name                     : &name "Md Asib Rahman"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "asib.jpg"
   name             : "Md Asib Rahman"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Student"
   location         : "Bangladesh"
-  employer         : "Bangladesh University of Engineering and Technology"
+  employer         : "BUET"
   uri              : # URL
   email            : "asib.rahman1927@gmail.com" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Les8AAMAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-6943-5151"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -45,7 +45,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "asib27"
-  kaggle           : # Username  
+  kaggle           : asibrahman
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media

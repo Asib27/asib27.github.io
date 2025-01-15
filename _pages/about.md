@@ -43,18 +43,6 @@ Currently I am finishing undergraduate thesis under the supervision of Dr. Md Sa
     </ul>
 </div>
 
-
-## 💻 Technical Skills
-
-- **🛠️ Programming Languages**  
-  C/C++, x86 Assembly, Bison/Flex, Python, Java, JavaScript, Bash, MySQL  
-
-- **📦 Frameworks and Libraries**  
-  PyTorch, Sklearn, Numpy ,Pandas, Matplotlib, Seaborn, NextJS, ReactJS, Bison/Flex  
-
-- **📚 Tools**  
-  Git, Docker, NS3, xv6, Wireshark
-
 ## 💻 Technical Skills
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 600px;">
     <ul style="list-style: none; ">
