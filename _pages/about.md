@@ -2,6 +2,8 @@
 permalink: /
 title: "👋🏼 Hello there, I’m Asib!"
 author_profile: true
+# header:
+#   overlay_color: "#333"
 redirect_from: 
   - /about/
   - /about.html

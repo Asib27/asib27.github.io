@@ -8,13 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Md Asib Rahman"
-title_separator          : "-"
+title                    : "Homepage of Md Asib Rahman"
+title_separator          : "|"
 name                     : &name "Md Asib Rahman"
-description              : &description "personal description"
+description              : &description "Personal website of Md Asib Rahman"
 url                      : https://asib27.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "asib27/asib27.github.io"
+search                   : true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -82,6 +83,15 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+
+# Publication Category - The following the list of publication categories and their headings
+portfolio_category:
+  ml:
+    title: 'Machine Learning'
+  dev:
+    title: 'Development'    
+  hardware:
+    title: 'Hardware'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -288,6 +298,8 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+lunr:
+  search_within_pages: true
 
 # Outputting
 permalink: /:categories/:title/
