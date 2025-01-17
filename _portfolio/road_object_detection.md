@@ -3,7 +3,7 @@ title: "Road Object Detection"
 excerpt: "Detects Vehicle and People in the road for autonomous driving"
 collection: portfolio
 category: ml
-description: "Stood **1st** in [DL Enigma 1.0](https://www.kaggle.com/competitions/dl-enigma-10-sust-cse-carnival-2024)"
+description: "**1st** in [DL Enigma 1.0](https://www.kaggle.com/competitions/dl-enigma-10-sust-cse-carnival-2024)"
 slidesurl: 'https://drive.google.com/file/d/1B8-LQVzQ1iuH58haV7a92isS6tTr36nT/view'
 paperurl: 'https://drive.google.com/file/d/1SGG2QQCKbkogNWhw9Hq_zKgN8ptheEYq/view'
 ---
