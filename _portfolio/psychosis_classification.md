@@ -1,5 +1,5 @@
 ---
-title: "Psychosis Classification Challenge"
+title: "Psychosis Classification Using rsfMRI"
 excerpt: "Differentiates between schizophrenia (SZ) and
 bipolar psychosis (BPP) using resting-state functional magnetic resonance imaging
 (rsfMRI)"
@@ -36,6 +36,6 @@ Resting-state functional MRI (rsf-MRI) detects spontaneous activity patterns in 
 5. **Random Seed Dependency:**  
    - Model efficiency was found to vary with the initialization seed. To address this, we trained **five different models** with random seeds and averaged their results to improve prediction reliability.
 
-This pipeline allowed us to tackle the challenges of limited data, high dimensionality, and class imbalance, yielding meaningful insights for psychosis classification.
+This pipeline allowed us to tackle the challenges of limited data, high dimensionality, and class imbalance. The pipeline achieved score of .65 which achieved 1st runners-up position in IEEE Signal Processing Cup 2023.
 
 
