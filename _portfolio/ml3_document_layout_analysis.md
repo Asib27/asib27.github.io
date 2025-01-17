@@ -3,6 +3,7 @@ title: "Bangla Document Layout Analysis"
 excerpt: "A project to analyze the layout of Bengali documents using optical character recognition (OCR)"
 collection: portfolio
 category: ml
+permalink: portfolio/bangla_doc_layout_analysis
 description: "**2nd runner-up** in [DL Sprint 2.0 - BUET CSE Fest 2023](https://www.kaggle.com/competitions/dlsprint2)"
 slidesurl: 'https://drive.google.com/file/d/1h8QPdTE4O1mIiW4Ot-g8_MUjvX2aucsz/view'
 paperurl: 'https://arxiv.org/abs/2308.14397'

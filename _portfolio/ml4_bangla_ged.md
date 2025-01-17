@@ -4,6 +4,7 @@ excerpt: "Identifies grammatical mistakes in Bangla
 language text."
 collection: portfolio
 category: ml
+permalink: portfolio/bangla_ged
 description: "**Rising Team** in [Bhashabhrom](https://www.kaggle.com/competitions/bengali-ged)"
 slidesurl: 'https://drive.google.com/file/d/1h8QPdTE4O1mIiW4Ot-g8_MUjvX2aucsz/view'
 paperurl: 'https://arxiv.org/abs/2308.14397'

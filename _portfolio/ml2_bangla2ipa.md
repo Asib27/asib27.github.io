@@ -5,6 +5,7 @@ written Bengali language into IPA(International Phonetic Alphabet) for accurate
 pronunciation and linguistic analysis."
 collection: portfolio
 category: ml
+permalink: portfolio/bangla_text2ipa
 description: "**1st** in [DataVerse Challenge - ITVerse 2023](https://www.kaggle.com/competitions/dataverse_2023)"
 slidesurl: 'https://drive.google.com/file/d/1c4qmbmNOFIxfrreiQosr3pd_1qmlt1oZ/view'
 paperurl: 'https://drive.google.com/file/d/1YJXVke3XMoKgMWLZ9G5GfvasaUb76nbm/view'

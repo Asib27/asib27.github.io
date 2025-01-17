@@ -16,7 +16,7 @@ author_profile: true
  {% if site.portfolio_category %}
   {% for category in site.portfolio_category  %}
     {% assign title_shown = false %}
-    {% for post in site.portfolio reversed %}
+    {% for post in site.portfolio %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}

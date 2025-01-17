@@ -5,6 +5,7 @@ bipolar psychosis (BPP) using resting-state functional magnetic resonance imagin
 (rsfMRI)"
 collection: portfolio
 category: ml
+permalink: portfolio/psychosis_classification/
 description: "**1st runner-up** in [IEEE Signal Processing Cup 2023](https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2023)"
 slidesurl: 'https://drive.google.com/file/d/1glOLMpwWBiZPvAgVDFciWAIJgBOpX4Ew/view'
 ---
