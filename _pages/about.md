@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I’m Asib!"
+title: "👋🏼 About Me"
 author_profile: true
 # header:
 #   overlay_color: "#333"
@@ -14,7 +14,7 @@ redirect_from:
 📚 I'm interested in Machine Learning, Graph Theory and Software Engineering.
 
 
-<h2>Work Experience</h2>
+## 💼 Work Experience
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 600px;">
     <ul style="list-style: none;">
         <li style="margin-bottom: 30px; border-left: 4px solid #d3d3d3; padding-left: 10px;">
