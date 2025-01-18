@@ -9,13 +9,27 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I’m a final year student at the Bangladesh University of Engineering and Technology(BUET).
+👨🏻‍💻 I’m a final year student at the Bangladesh University of Engineering and Technology(BUET). Currently I am finishing undergraduate thesis under the supervision of Dr. Md Saidur Rahman. 
 
 📚 I'm interested in Machine Learning, Graph Theory and Software Engineering.
 
-Research Experience
-===
-Currently I am finishing undergraduate thesis under the supervision of Dr. Md Saidur Rahman.
+
+<h2>Work Experience</h2>
+<div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 600px;">
+    <ul style="list-style: none;">
+        <li style="margin-bottom: 30px; border-left: 4px solid #d3d3d3; padding-left: 10px;">
+            <strong>Junior Software Engineer</strong><br>
+            <span><em>OpenRefactory Inc.</em></span><br>
+            <span>📅 August 2024 – Present</span><br>
+        </li>
+        <li style="margin-bottom: 30px; border-left: 4px solid #d3d3d3; padding-left: 10px;">
+            <strong>Vice President</strong><br>
+            <span>Ankur International Students Chapter</span><br>
+            <span>📅 April 2024 – Present</span><br>
+            <p>Contributed to the technical and documentation sections of Ankur International. Played an active role in several community projects, including winter clothes distribution, food relief initiatives, flood relief efforts, and post-rehabilitation support.</p>
+        </li>
+    </ul>
+</div>
 
 🎓 Education
 ===
