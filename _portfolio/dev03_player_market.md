@@ -3,6 +3,7 @@ title: "Player Market"
 excerpt: "System to simulate transfer market between different football clubs"
 collection: portfolio
 category: dev
+permalink: "portfolio/player_market"
 description: "Stack: Java, Javafx"
 projecturl: https://github.com/Asib27/PlayerDataBaseUI?tab=readme-ov-file
 demourl: https://www.youtube.com/watch?si=metbUzykZ2Sn1cME&v=fPONGIv5Mlw&feature=youtu.be

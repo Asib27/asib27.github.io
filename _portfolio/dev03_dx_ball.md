@@ -3,6 +3,7 @@ title: "DX Ball"
 excerpt: "Clone of DX Ball game made with OpenGL and IGraphics"
 collection: portfolio
 category: dev
+permalink: "portfolio/DX_Ball"
 description: "Stack: C++, IGraphics"
 projecturl: https://github.com/Asib27/Dx-Ball
 ---

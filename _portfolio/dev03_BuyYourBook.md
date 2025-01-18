@@ -3,6 +3,7 @@ title: "BuyYourBook"
 excerpt: "E-commerce website for buying and selling books"
 collection: portfolio
 category: dev
+permalink: "portfolio/BuyYourBook"
 description: "stack: postgresql, spring boot, reat, material ui"
 projecturl: https://github.com/Asib27/BuyYourBook
 ---

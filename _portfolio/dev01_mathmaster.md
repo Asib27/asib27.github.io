@@ -3,6 +3,7 @@ title: "MathMaster"
 excerpt: "A website to learn math interactively"
 collection: portfolio
 category: dev
+permalink: "portfolio/MathMaster"
 description: "stack: postgresql ,prisma, expressjs, react, tailwind css"
 projecturl: https://github.com/Asib27/MathMaster-Frontend
 ---

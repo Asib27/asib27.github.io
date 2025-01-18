@@ -3,6 +3,7 @@ title: "SaveYouFromYou"
 excerpt: "2D game built with p5js"
 collection: portfolio
 category: dev
+permalink: "portfolio/SaveYouFromYoy"
 description: "Stack: p5js, html, javascript"
 projecturl: https://github.com/Asib27/SaveYouFromYou
 demourl: https://asib27.itch.io/lost-in-gravity

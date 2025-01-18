@@ -3,6 +3,7 @@ title: "Simple C"
 excerpt: "A simplified C compiler"
 collection: portfolio
 category: dev
+permalink: "portfolio/SimpleC"
 description: "Stack: C++, Flex, Bison"
 projecturl: https://github.com/Asib27/compiler_lab
 ---
