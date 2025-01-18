@@ -7,6 +7,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+toc: true
 ---
 
 👨🏻‍💻 I’m a final year student at the Bangladesh University of Engineering and Technology(BUET). Currently I am finishing undergraduate thesis under the supervision of Dr. Md Saidur Rahman. 
@@ -31,8 +32,7 @@ redirect_from:
     </ul>
 </div>
 
-🎓 Education
-===
+## 🎓 Education
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 600px;">
     <ul style="list-style: none;">

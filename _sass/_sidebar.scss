@@ -58,18 +58,27 @@
 
 .sidebar__right {
   margin-bottom: 1em;
+  p, li {
+    font-family: $sans-serif;
+    font-size: $type-size-4;
+    line-height: 1.5;
+  }
 
   @include breakpoint($large) {
-    position: relative;
-    float: right;
-    width: $right-sidebar-width-narrow;
-    margin-left: span(0.5 of 12);
+    position: sticky !important;
+    float: right !important;
+    top: 0;
+    right: 0;
+    width: $right-sidebar-width;
+    margin-right: -1 * $right-sidebar-width;
+    padding-left: 1em;
+    padding-top: $masthead-height;
     z-index: 10;
   }
 
-  @include breakpoint($x-large) {
-    width: $right-sidebar-width;
-  }
+  // @include breakpoint($x-large) {
+  //   width: $right-sidebar-width;
+  // }
 }
 
 /*
