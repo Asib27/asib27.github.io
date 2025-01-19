@@ -72,21 +72,20 @@ toc: true
 
 
 ## 💻 Technical Skills
-<div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 600px;">
-    <ul style="list-style: none; ">
-        <li style="border-left: 4px solid #d3d3d3; padding-left: 10px; margin-bottom: 20px;">
-            <strong>🛠️ Programming Languages</strong><br>
-            <span>C/C++, x86 Assembly, Python, Java, JavaScript, Bash, SQL</span>
-        </li>
-        <li style="border-left: 4px solid #d3d3d3; padding-left: 10px; margin-bottom: 20px;">
-            <strong>📦 Frameworks and Libraries</strong><br>
-            <span> PyTorch, Sklearn, Numpy ,Pandas, Matplotlib, Seaborn, NextJS, ReactJS, Bison/Flex</span>
-        </li>
-        <li style="border-left: 4px solid #d3d3d3; padding-left: 10px; margin-bottom: 20px;">
-            <strong>📚 Tools</strong><br>
-            <span> Git, Docker, NS3, xv6, Wireshark</span>
-        </li>
-    </ul>
+<div class="about_card">
+  <ul>
+    <li class="about_item">
+      <strong>🛠️ Programming Languages</strong><br>
+      <span>C/C++, x86 Assembly, Python, Java, JavaScript, Bash, SQL</span>
+    </li>
+    <li class="about_item">
+      <strong>📦 Frameworks and Libraries</strong><br>
+      <span>PyTorch, Sklearn, Numpy, Pandas, Matplotlib, Seaborn, NextJS, ReactJS, Bison/Flex</span>
+    </li>
+    <li class="about_item">
+      <strong>📚 Tools</strong><br>
+      <span>Git, Docker, NS3, xv6, Wireshark</span>
+    </li>
+  </ul>
 </div>
-
 

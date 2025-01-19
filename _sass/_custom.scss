@@ -46,6 +46,33 @@
       font-size: 0.9rem;
       color: #444;
       line-height: 1.4;
+      text-align: justify;
+      text-justify: inter-word;
+      padding-right: 30px;
     }
+  }
+}
+
+.skills_item {
+  border-left: 4px solid #d3d3d3;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  background-color: #fff; // White background for each item
+  padding: 15px;
+  border-radius: 8px;
+  transition: box-shadow 0.3s ease;
+
+  &:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); // Light shadow on hover
+  }
+
+  strong {
+    font-size: 1.1em;
+    color: #333;
+  }
+
+  span {
+    font-size: 0.95em;
+    color: #666;
   }
 }
