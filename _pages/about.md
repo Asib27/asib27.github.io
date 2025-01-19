@@ -14,50 +14,62 @@ toc: true
 
 📚 I'm interested in Machine Learning, Graph Theory and Software Engineering.
 
-
 ## 💼 Work Experience
-<div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 600px;">
-    <ul style="list-style: none;">
-        <li style="margin-bottom: 30px; border-left: 4px solid #d3d3d3; padding-left: 10px;">
-            <strong>Junior Software Engineer</strong><br>
-            <span><em>OpenRefactory Inc.</em></span><br>
-            <span>📅 August 2024 – Present</span><br>
-        </li>
-        <li style="margin-bottom: 30px; border-left: 4px solid #d3d3d3; padding-left: 10px;">
-            <strong>Vice President</strong><br>
-            <span>Ankur International Students Chapter</span><br>
-            <span>📅 April 2024 – Present</span><br>
-            <p>Contributed to the technical and documentation sections of Ankur International. Played an active role in several community projects, including winter clothes distribution, food relief initiatives, flood relief efforts, and post-rehabilitation support.</p>
-        </li>
-    </ul>
+<div class="about_card">
+    <img class="about_card__logo" src="/assets/images/institute_logo/open_refactory.png" alt="BUET Logo">
+  <div class="about_card__content">
+    <div class="about_card__content__title">💻 Junior Software Engineer</div>
+    <div class="about_card__content__subtitle">OpenRefactory Inc.</div>
+    <div class="about_card__content__date">📅 August 2024 – Present</div>
+  </div>
 </div>
+
+<div class="about_card">
+<img class="about_card__logo" src="/assets/images/institute_logo/ankur.png" alt="BUET Logo">
+  <div class="about_card__content">
+    <div class="about_card__content__title">🤝 Vice President</div>
+    <div class="about_card__content__subtitle">Ankur International Students Chapter</div>
+    <div class="about_card__content__date">📅 April 2024 – Present</div>
+    <p class="about_card__content__details">
+      Contributed to the technical and documentation sections of Ankur International. Played an active role in several community projects, including winter clothes distribution, food relief initiatives, flood relief efforts, and post-rehabilitation support.
+    </p>
+  </div>
+</div>
+
 
 ## 🎓 Education
-
-<div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 600px;">
-    <ul style="list-style: none;">
-        <li style="margin-bottom: 30px; border-left: 4px solid #d3d3d3; padding-left: 5px;">
-            <strong>🖥️ B.Sc. in Computer Science and Engineering</strong><br>
-            <span><em>Bangladesh University of Engineering and Technology</em></span><br>
-            <span>📅 February 2020 – Present</span><br>
-            <span>🎯 CGPA: 3.97/4.00</span>
-        </li>
-        <li style="margin-bottom: 30px; border-left: 4px solid #d3d3d3; padding-left: 5px;">
-            <strong>📜 Higher Secondary Certificate (HSC)</strong><br>
-            <span><em>Rangpur Cadet College</em></span><br>
-            <span>📅 2019</span><br>
-            <span>🎯 GPA: 5.00/5.00</span><br>
-            <span>🏆 Secured 10th position in Rangpur Board</span>
-        </li>
-        <li style="border-left: 4px solid #d3d3d3; padding-left: 5px;">
-            <strong>📜 Secondary School Certificate (HSC)</strong><br>
-            <span><em>Rangpur Cadet College</em></span><br>
-            <span>📅 2017</span><br>
-            <span>🎯 GPA: 5.00/5.00</span><br>
-            <span>🏆 Secured 20th position in Rangpur Board</span>
-        </li>
-    </ul>
+<div class="about_card">
+  <img class="about_card__logo" src="/assets/images/institute_logo/buet.png" alt="BUET Logo">
+  <div class="about_card__content">
+    <div class="about_card__content__title">🖥️ B.Sc. in Computer Science and Engineering</div>
+    <div class="about_card__content__subtitle">Bangladesh University of Engineering and Technology</div>
+    <div class="about_card__content__date">📅 February 2020 – Present</div>
+    <div class="about_card__content__achievement">🎯 CGPA: 3.97/4.00</div>
+  </div>
 </div>
+
+<div class="about_card">
+  <img class="about_card__logo" src="/assets/images/institute_logo/ccr.jpeg" alt="Rangpur Cadet College Logo">
+  <div class="about_card__content">
+    <div class="about_card__content__title">📜 Higher Secondary Certificate (HSC)</div>
+    <div class="about_card__content__subtitle">Rangpur Cadet College</div>
+    <div class="about_card__content__date">📅 2019</div>
+    <div class="about_card__content__achievement">🎯 GPA: 5.00/5.00</div>
+    <div class="about_card__content__achievement">🏆 Secured 10th position in Rangpur Board</div>
+  </div>
+</div>
+
+<div class="about_card">
+  <img class="about_card__logo" src="/assets/images/institute_logo/ccr.jpeg" alt="Rangpur Cadet College Logo">
+  <div class="about_card__content">
+    <div class="about_card__content__title">📜 Secondary School Certificate (SSC)</div>
+    <div class="about_card__content__subtitle">Rangpur Cadet College</div>
+    <div class="about_card__content__date">📅 2017</div>
+    <div class="about_card__content__achievement">🎯 GPA: 5.00/5.00</div>
+    <div class="about_card__content__achievement">🏆 Secured 20th position in Rangpur Board</div>
+  </div>
+</div>
+
 
 ## 💻 Technical Skills
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 600px;">
