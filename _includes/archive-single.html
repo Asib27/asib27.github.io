@@ -54,29 +54,36 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.collection == "publications" %}
-      {% if post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
-      {% endif %}
-      
-      {% if post.paperurl and post.slidesurl %}
-        <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
-      {% elsif post.paperurl %}
-        <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
-      {% elsif post.slidesurl %}
-        <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
-      {% endif %}  
-    {% endif %} -->
-
-    {% if post.collection == "portfolio" %}
-      {% if post.projecturl and post.demourl %}
-        <p><a href="{{ post.projecturl }}">Project Link</a> | <a href="{{ post.demourl }}">Demo</a></p>
-      {% elsif post.projecturl %}
-        <p><a href="{{ post.projecturl }}">Project Link</a></p>
-      {% elsif post.demourl %}
-        <p><a href="{{ post.demourl }}">Demo</a></p>
-      {% endif %}
+    
+    {% if post.citation %}
+    <p>Recommended citation: {{ post.citation }}</p>
     {% endif %}
+    
+    <div style='display: flex; flex-wrap: wrap; gap: 10px;'>
+      {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" class="btn btn--inverse" style="text-decoration: none;">
+        <i class="fa-regular fa-file"></i> Paper
+      </a>
+      {% endif %}  
+    
+      {% if post.slidesurl %}
+      <a href="{{ post.slidesurl }}" class="btn btn--inverse" style="text-decoration: none;">
+        <i class="fa-regular fa-file-powerpoint"></i> Slides
+      </a>
+      {% endif %}  
+    
+      {% if post.projecturl %}
+      <a href="{{ post.projecturl }}" class="btn btn--inverse" style="text-decoration: none;">
+        <i class="fa-solid fa-code"></i> Code
+      </a>
+      {% endif %}  
+    
+      {% if post.demourl %}
+      <a href="{{ post.demourl }}" class="btn btn--inverse" style="text-decoration: none;">
+        <i class="fas fa-play-circle"></i> Demo
+      </a>
+      {% endif %}
+    </div>
 
   </article>
 </div>
