@@ -163,3 +163,102 @@
     font-size: $type-size-7;
   }
 }
+
+
+.social-button-wrapper {
+  display: inline-flex;
+  list-style: none;
+  font-family: "Poppins", sans-serif;
+  justify-content: center;
+}
+
+.social-button-wrapper .social-button-icon {
+  position: relative;
+  background: #fff;
+  border-radius: 50%;
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.social-button-wrapper .social-button-tooltip {
+  position: absolute;
+  top: 0;
+  font-size: 14px;
+  background: #fff;
+  color: #fff;
+  padding: 5px 8px;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.social-button-wrapper .social-button-tooltip::before {
+  position: absolute;
+  content: "";
+  height: 8px;
+  width: 8px;
+  background: #fff;
+  bottom: -3px;
+  left: 50%;
+  transform: translate(-50%) rotate(45deg);
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.social-button-wrapper .social-button-icon:hover .social-button-tooltip {
+  top: -45px;
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+.social-button-wrapper .social-button-icon:hover span,
+.social-button-wrapper .social-button-icon:hover .social-button-tooltip {
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1);
+}
+
+.social-button-wrapper .social-button-facebook:hover,
+.social-button-wrapper .social-button-facebook:hover .social-button-tooltip,
+.social-button-wrapper .social-button-facebook:hover .social-button-tooltip::before {
+  background: #1877f2;
+  color: #fff;
+}
+
+.social-button-wrapper .social-button-twitter:hover,
+.social-button-wrapper .social-button-twitter:hover .social-button-tooltip,
+.social-button-wrapper .social-button-twitter:hover .social-button-tooltip::before {
+  background: #1da1f2;
+  color: #fff;
+}
+
+.social-button-wrapper .social-button-instagram:hover,
+.social-button-wrapper .social-button-instagram:hover .social-button-tooltip,
+.social-button-wrapper .social-button-instagram:hover .social-button-tooltip::before {
+  background: #e4405f;
+  color: #fff;
+}
+
+.social-button-wrapper .social-button-x:hover,
+.social-button-wrapper .social-button-x:hover .social-button-tooltip,
+.social-button-wrapper .social-button-x:hover .social-button-tooltip::before {
+  background: #000;
+  color: #fff;
+}
+
+.social-button-wrapper .social-button-linkedin:hover,
+.social-button-wrapper .social-button-linkedin:hover .social-button-tooltip,
+.social-button-wrapper .social-button-linkedin:hover .social-button-tooltip::before {
+  background: #0077B5;
+  color: #fff;
+}
+
