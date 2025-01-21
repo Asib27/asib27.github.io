@@ -9,7 +9,6 @@ description: "**Rising Team** in [Bhashabhrom](https://www.kaggle.com/competitio
 slidesurl: 'https://drive.google.com/file/d/1h8QPdTE4O1mIiW4Ot-g8_MUjvX2aucsz/view'
 paperurl: 'https://arxiv.org/abs/2308.14397'
 ---
-<small>**Rising Team** in [Bhashabhrom](https://www.kaggle.com/competitions/bengali-ged)</small>
 
 This project aims to develop a grammatical error detection model for the Bengali language, capable of identifying various error types such as single-chunk errors, multi-chunk errors, punctuation errors, and spacing errors.
 

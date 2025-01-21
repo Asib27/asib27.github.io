@@ -8,7 +8,6 @@ description: "**2nd runner-up** in [DL Sprint 2.0 - BUET CSE Fest 2023](https://
 slidesurl: 'https://drive.google.com/file/d/1h8QPdTE4O1mIiW4Ot-g8_MUjvX2aucsz/view'
 paperurl: 'https://arxiv.org/abs/2308.14397'
 ---
-<small>**2nd runner-up** in [DL Sprint 2.0 - BUET CSE Fest 2023](https://www.kaggle.com/competitions/dlsprint2)</small>
 
 This project focuses on developing a Bengali layout detection model to identify and classify elements such as paragraphs, text boxes, images, and tables within Bengali documents. The dataset comprises a diverse range of document types, including historical newspapers, contemporary newspapers, books, magazines, Liberation War documents, and more.
 
