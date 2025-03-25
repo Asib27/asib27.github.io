@@ -10,17 +10,26 @@ redirect_from:
 toc: true
 ---
 
-👨🏻‍💻 I’m a final year student at the Bangladesh University of Engineering and Technology(BUET). Currently I am finishing undergraduate thesis under the supervision of Dr. Md Saidur Rahman. 
+👨🏻‍💻 I’m a recent graduate of CSE from Bangladesh University of Engineering and Technology(BUET). Currently I am working as a Junior AI Engineer at RoboFication LLC.
 
 📚 I'm interested in Machine Learning, Graph Theory and Software Engineering.
 
 ## 💼 Work Experience
 <div class="about_card">
+    <img class="about_card__logo" src="/assets/images/institute_logo/robofication.png" alt="RoboFication Logo">
+  <div class="about_card__content">
+    <div class="about_card__content__title">💻 Junior AI Engineer</div>
+    <div class="about_card__content__subtitle">RoboFication LLC</div>
+    <div class="about_card__content__date">📅 March 2025 – Present</div>
+  </div>
+</div>
+
+<div class="about_card">
     <img class="about_card__logo" src="/assets/images/institute_logo/open_refactory.png" alt="BUET Logo">
   <div class="about_card__content">
     <div class="about_card__content__title">💻 Junior Software Engineer</div>
     <div class="about_card__content__subtitle">OpenRefactory Inc.</div>
-    <div class="about_card__content__date">📅 August 2024 – Present</div>
+    <div class="about_card__content__date">📅 August 2024 – January 2025</div>
   </div>
 </div>
 
@@ -29,7 +38,7 @@ toc: true
   <div class="about_card__content">
     <div class="about_card__content__title">🤝 Vice President</div>
     <div class="about_card__content__subtitle">Ankur International Students Chapter</div>
-    <div class="about_card__content__date">📅 April 2024 – Present</div>
+    <div class="about_card__content__date">📅 April 2024 – March 2025</div>
     <p class="about_card__content__details">
       Contributed to the technical and documentation sections of Ankur International. Played an active role in several community projects, including winter clothes distribution, food relief initiatives, flood relief efforts, and post-rehabilitation support.
     </p>
@@ -43,7 +52,7 @@ toc: true
   <div class="about_card__content">
     <div class="about_card__content__title">🖥️ B.Sc. in Computer Science and Engineering</div>
     <div class="about_card__content__subtitle">Bangladesh University of Engineering and Technology</div>
-    <div class="about_card__content__date">📅 February 2020 – Present</div>
+    <div class="about_card__content__date">📅 February 2020 – March 2025</div>
     <div class="about_card__content__achievement">🎯 CGPA: 3.97/4.00</div>
   </div>
 </div>
