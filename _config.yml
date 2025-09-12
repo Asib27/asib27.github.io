@@ -25,7 +25,7 @@ author:
   avatar           : "asib.jpg"
   name             : "Md Asib Rahman"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate at Bangladesh University of Engineering and Technology"
+  bio              : "Fall 26 Aspirant | Senior AI Research Engineer @RoboFicationLLC"
   location         : "Bangladesh"
   employer         : 
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/0009-0006-6943-5151"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Md-Asib-Rahman"
   scopus           : # URL
 
   # Repositories and software development
@@ -156,9 +156,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-gtag" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-F2JKSFREC5"
 
 
 # Reading Files

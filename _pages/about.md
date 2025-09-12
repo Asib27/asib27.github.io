@@ -21,7 +21,7 @@ Currently I am working as a Senior AI Research Engineer at RoboFication LLC.
   <div >
     <div >
       <div ><b>{{ post.title }}</b></div>
-      <div ><small>{{ post.venue }} | {{ post.date | date: "%B %d, %Y" }}</small></div>
+      <div ><small>{{ post.venue }} | {{ post.date | date: "%B %d, %Y" }} | <a href="{{ post.paperurl }}">Paper</a> {% if post.slidesurl %} | <a href="{{ post.slidesurl }}">Slides</a>{% endif %}</small></div>
       <div ><small>{{ post.authors | markdownify }}</small></div>
     </div>
   </div>
