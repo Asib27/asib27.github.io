@@ -12,7 +12,7 @@ toc: true
 
 I am a recent graduate of CSE from Bangladesh University of Engineering and Technology(BUET). I am looking for <b>PhD positions</b> in the field of <b>Algorithms, Natural Language Processing, Computer Vision</b>.
 
-Currently I am working as a Senior AI Research Engineer at RoboFication LLC.
+Currently I am working as a **Senior AI Research Engineer** at RoboFication LLC.
 
 ## Publications
 
@@ -36,7 +36,8 @@ Currently I am working as a Senior AI Research Engineer at RoboFication LLC.
     <div class="about_card__content__subtitle">RoboFication LLC</div>
     <div class="about_card__content__date"> March 2025 – Present</div>
     <p class="about_card__content__details">
-      Working as technical lead in <a href="https://sysmodeler.ai">sysmodeler.ai</a>. Sysmodeler is an AI-powered tool that generates system design diagrams from natural language descriptions. It leverages advanced machine learning techniques to understand user requirements and automatically create detailed and accurate system architecture diagrams, streamlining the design process for developers and engineers. 
+      Working as <b>technical lead</b> in <a href="https://sysmodeler.ai">sysmodeler.ai</a>. Sysmodeler is an AI-powered tool that generates SysML Diagrams from multimodal specifications. It leverages LLMs to
+      understand user requirements and automatically create SysML diagrams, streamlining the design process for engineers. 
     </p>
   </div>
 </div>
